@@ -40,8 +40,13 @@ In the class `TruckMessage` we have the decryption methods, if the message has l
 
 If you want run the application you must to go to  the next url
 
-```bash
+```
   http://54.219.16.187:8080/tracking/
+```
+If you want run in local the application 
+
+```bash
+java -jar fase2-0.0.1-SNAPSHOT
 ```
 
 
